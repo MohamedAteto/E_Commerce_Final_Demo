@@ -68,5 +68,13 @@ namespace E_Commerce_Final_Demo.Controllers
             var totalRevenue = await unit.OrdersRepo.GetTotlaRevenue();
             return Ok(totalRevenue);
         }
+
+
+
+        //  new andfdfsdf sd
+
+
+
+
     }
 }
